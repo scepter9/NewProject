@@ -29,6 +29,6 @@
 <ul>
 <li><strong>Email:</strong> <a href="mailto:scepterkings@gmail.com">scepterkings@gmail.com</a></li>
 <li><strong>GitHub:</strong> <a href="https://github.com/scepter9">https://github.com/scepter9</a><br>
-***Twitter:**<a href="https://x.com/scepter_kingss?s=21">https://x.com/scepter_kingss?s=21</a></li>
+**Twitter:**<a href="https://x.com/scepter_kingss?s=21">https://x.com/scepter_kingss?s=21</a></li>
 </ul>
 
